@@ -61,7 +61,7 @@ header nav a:any-link {
 /* hamburger */
 header nav .nav-hamburger {
   grid-area: hamburger;
-  height: 22px;
+  height: 23px;
   display: flex;
   align-items: center;
 }
